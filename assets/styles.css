@@ -1,0 +1,6 @@
+.todo-list input:checked {
+        text-decoration: line-through;
+      }
+body {
+    background: red;
+}      
